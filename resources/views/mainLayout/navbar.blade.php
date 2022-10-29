@@ -10,12 +10,6 @@
             <a class="nav-link active" aria-current="page" href="Home">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Login</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Sign Up</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="{{ route('home') }}">Back</a>
           </li>
         </ul>
